@@ -9,4 +9,6 @@ python app.py
 
 Connect to your web UI with:
 
+```
 localhost:5000
+```
